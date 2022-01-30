@@ -15,7 +15,7 @@
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
-      "description": "Set this to ANYTHING will enable heroku.",
+      "description": "Set this to ANYTHINMRPRODUDEG will enable heroku.",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
